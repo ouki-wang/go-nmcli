@@ -4,7 +4,7 @@ import (
 	//"regexp"
 	"context"
 	"fmt"
-	"github.com/leberKleber/go-nmcli/utils"
+	"github.com/ouki-wang/go-nmcli/utils"
 	"strings"
 )
 
