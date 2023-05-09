@@ -2,11 +2,11 @@ package go_nmcli
 
 import (
 	"context"
-	"github.com/leberKleber/go-nmcli/device"
+	"github.com/ouki-wang/go-nmcli/device"
 	"os/exec"
 
-	"github.com/leberKleber/go-nmcli/general"
-	"github.com/leberKleber/go-nmcli/utils"
+	"github.com/ouki-wang/go-nmcli/general"
+	"github.com/ouki-wang/go-nmcli/utils"
 	"github.com/sirupsen/logrus"
 )
 

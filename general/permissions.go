@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/leberKleber/go-nmcli/utils"
+	"github.com/ouki-wang/go-nmcli/utils"
 )
 
 type Permission struct {

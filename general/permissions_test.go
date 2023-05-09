@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
-	"github.com/leberKleber/go-nmcli/general"
-	"github.com/leberKleber/go-nmcli/utils"
+	"github.com/ouki-wang/go-nmcli/general"
+	"github.com/ouki-wang/go-nmcli/utils"
 	"github.com/stretchr/testify/require"
 )
 
